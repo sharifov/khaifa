@@ -1,0 +1,5 @@
+{
+    "require": {
+        "checkout/checkout-sdk-php": "^1.0"
+    }
+}

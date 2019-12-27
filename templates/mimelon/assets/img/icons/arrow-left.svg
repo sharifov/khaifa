@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="15px" viewBox="0 0 17 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>D2EAB52D-5F9A-440F-8AFB-BC3B82F86DC9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 17 0 17 15 0 15"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="with-sale" transform="translate(-36.000000, -644.000000)">
+            <g id="Group-3-Copy" transform="translate(44.500000, 651.500000) scale(-1, 1) translate(-44.500000, -651.500000) translate(36.000000, 644.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M16.6127946,6.54421644 L10.5949247,0.395813292 C10.0782357,-0.131937764 9.24079499,-0.131937764 8.72410605,0.395813292 C8.20757273,0.923564347 8.20757273,1.77935108 8.72410605,2.30726115 L12.483485,6.14828389 L1.3228482,6.14828389 C0.592480363,6.14828389 0,6.75331335 0,7.49986087 C0,8.24624937 0.592480363,8.85143784 1.3228482,8.85143784 L12.4837963,8.85143784 L8.72410605,12.6926196 C8.20757273,13.2203707 8.20757273,14.0761574 8.72410605,14.6040675 C8.98245052,14.8680225 9.32094403,15 9.65959317,15 C9.99793105,15 10.3365802,14.8680225 10.5949247,14.6040675 L16.6127946,8.4556643 C16.8608675,8.20220387 17,7.85842629 17,7.50001988 C17,7.14145446 16.8608675,6.79767688 16.6127946,6.54421644" id="Fill-1" fill="#231F20" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

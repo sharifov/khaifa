@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+$config["rules"] = [
+    'trim' => false,
+    'required' => false,
+    'matches' => true,
+    'regex_match' => true,
+    'differs' => true,
+    'is_unique' => false ,
+    'min_length' => true,
+    'max_length' => true,
+    'exact_length' => true,
+    'greater_than' => true,
+    'greater_than_equal_to' => true,
+    'less_than' => true,
+    'less_than_equal_to' => true,
+    'in_list' => true,
+    'alpha' => false,
+    'alpha_numeric' => false,
+    'alpha_numeric_spaces' => false,
+    'alpha_dash' => false,
+    'numeric' => false,
+    'integer' => false,
+    'decimal' => false,
+    'is_natural' => false,
+    'is_natural_no_zero' => false,
+    'valid_url' => false,
+    'valid_email' => false,
+    'valid_emails' => false,
+    'valid_ip' => false,
+    'valid_base64' => false
+];

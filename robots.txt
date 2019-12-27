@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://mimelon.com/sitemap.xml
+Disallow: 

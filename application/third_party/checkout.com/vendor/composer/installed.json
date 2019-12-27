@@ -1,0 +1,59 @@
+[
+    {
+        "name": "checkout/checkout-sdk-php",
+        "version": "1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/checkout/checkout-sdk-php.git",
+            "reference": "2260afb51d32e3625522d9d1f27d0c2e654a82a9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/checkout/checkout-sdk-php/zipball/2260afb51d32e3625522d9d1f27d0c2e654a82a9",
+            "reference": "2260afb51d32e3625522d9d1f27d0c2e654a82a9",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.0"
+        },
+        "time": "2019-03-05T15:45:30+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Checkout\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Checkout.com",
+                "email": "platforms@checkout.com",
+                "homepage": "https://github.com/checkout/checkout-sdk-php/graphs/contributors"
+            }
+        ],
+        "description": "Checkout.com SDK for PHP",
+        "homepage": "https://github.com/checkout/checkout-sdk-php",
+        "keywords": [
+            "CKO",
+            "GW3",
+            "Reboot",
+            "api",
+            "checkout",
+            "checkout.com",
+            "checkoutcom",
+            "gateway",
+            "library",
+            "payment",
+            "php",
+            "sdk"
+        ]
+    }
+]
